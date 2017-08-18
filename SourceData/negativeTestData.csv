@@ -1,18 +1,17 @@
- ,GuoGuoGuoG,647-545 8440
-LepingLepingLepingLepingL,Guo,(647)545 8440
-LepingLepingLepingLepingLepingLeping,Guo,(647)545 8440
-Leping, ,(647)545 8440
-5,Guo,(647)545 8440
-Leping5,Guo,(647)545 8440
-@,Guo,(647)545 8440
-@Leping,Guo,(647)545 8440
-Leping$,Guo,(647)545 8440
-Leping,8,(647)545 8440
-Lping,8Guo,(647)545 8440
-Leping,#,(647)545 8440
-Leping,Guo&,(647)545 8440
-Leping,%Guo,(647)545 8440
-
-
-Note: A little confusion for the word "character". Not sure character includes numbers and symbols and need 
-confirm with BA. Here I suppose that numbers and symbols are not allowed. 
+ ,GuoGuoGuoG,647-545 4840, *No first name + correct last name + correct phone number
+LepingLepingLepingLepingL,Guo,(647)545 4840, *wrong first name (with 21 characters) + correct last name + correct phone number 
+LepingLepingLepingLepingLepingLeping,Guo,(647)545 4840, *wrong first name(with 30 characters) + correct last name + correct phone number
+5,Guo,(647)545 4840, *wrong first name（with number only) + correct last name + correct phone number 
+Leping5,Guo,(647)545 4840, *wrong first name(with having number) + correct last name + correct phone number
+@,Guo,(647)545 4840, *wrong first name(with symbol only) + correct last name + correct phone number
+@Leping,Guo,(647)545 4840, *wrong first name(starting with symbol) + correct last name + correct phone number
+Leping$,Guo,(647)545 4840, *wrong first name(ending with symbol) + correct last name + correct phone number
+Leping, ,(647)545 4840, *correct first name + no last name + correct phone number
+Leping,8,(647)545 4840, *correct first name + wrong last name(with number only) + correct phone number
+Lping,8Guo,(647)545 4840, *correct first name + wrong last name(starting with number) + correct phone number
+Leping,#,(647)545 4840, *correct first name + wrong last name(with symbol only) + correct phone number
+Leping,Guo&,(647)545 4840, *correct first name + wrong last name(ending with symbol) + correct phone number
+Leping,%Guo,(647)545 4840, *correct first name + wrong last name(starting with symbol) + correct phone number
+leping,Guo,6$7-545 4840, *correct first namr + correct last name + wrong phone number(with a symbol)
+leping,Guo,647-5k5 4840, **correct first namr + correct last name + wrong phone number(with a character)
+Leping,Guo,647-545 484!, **correct first namr + correct last name + wrong phone number( ending with symbol)
