@@ -1,8 +1,8 @@
-LepingLeping,GuoGuoGuoG,647-545 8440
-L,Guo,(647)545 8440
-LepingLepingLepingLeping,Guo,647-545 8440
-Leping,G,647-545 8440
-Leping,GuoGuoGuoGuoGuoGuoGu,647-545 8440
-Leping,Guo,647 545 8440
-Leping,Guo,6475458440
-Leping,Guo,647-545-8440
+LepingLeping,GuoGuoGuoG,647-545 4840, *first name with 10 characters + last name with 10 characters + correct phone number
+L,Guo,(647)545 4840, *first name with only 1 character + correct last name  + correct phone number format with (xxx)xxx-xxxx
+LepingLepingLepingLeping,Guo,647-545 4840, *first name with 20 characters + correct last name  + correct phone number
+Leping,G,647-545 4840, *correct first name  + last name with only 1 character + correct phone number format with xxx-xxx xxxx
+Leping,GuoGuoGuoGuoGuoGuoGu,647-545 4840, *correct first name + last name with 20 characters + correct phone number
+Leping,Guo,647 545 4840, *correct first name + correct last name with + correct phone number format with xxx xxx xxxx
+Leping,Guo,6475454840, *correct first name + correct last name  + correct phone number format with xxxxxxxxxx
+Leping,Guo,647-545-4840, **correct first name + correct last name  + correct phone number format with xxx-xxx-xxxx
